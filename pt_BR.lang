@@ -235,6 +235,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=Depois de encontrar uma maneira
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=§a§lHora-de-Consertar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=Embora usar suas ferramentas de madeira seja divertido em termos de matar porcos e vacas, elas não duram muito e não podem ser reparadas. Além disso, os monstros Infernais riem de suas tentativas de matá-los. Você descobriu como criar ferramentas que podem ser reparadas e melhoradas, mas para isso você definitivamente precisa de uma técnica de fabricação mais avançada.%n%n[note]Se você não tem acesso á madeira de carvalho, para criar o seu Construtor de Partes, você pode criar o seu na variante de carvalho, para fins de completar esta missão[/note]
 
+# Quest: Zinc Gravel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=§a§lCascalho de Zinco
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=Você pode encontrar em vários pedaços de cascalho na superfície.%n%nUse o mínimo possível e guarde o resto para quando você conseguir um Macerador na era do Vapor, você receberá o dobro.%n%nSe você não conseguiu encontrar nem um cascalho, você pode comprá-las na Máquina de Vendas.%n%nSe você conseguir o suficiente e processá-lo totalmente, também poderá obter Gálio para Arsenieto de Gálio na era LV.
+
 # Quest: Making Bronze
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.name=§a§lFazendo Bronze
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=Agora que você encontrou cobre e estanho, você deve fazer um pouco de bronze. Use seu macera... OPS. quer dizer, seu pilão para moer alguns lingotes de cobre e estanho e misture-os!
@@ -1986,10 +1990,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjQ.desc=Como segunda etapa, combinamos 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjg.name=§6§lSalgado de tanto silício?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjg.desc=Se você está "salgado" (irritado) com os ingredientes necessários para purificar o silício, tenho boas notícias! Você pode recuperar todo o cloro e sódio usados eletrolisando o sal que sobrou!%n%n[note]Você também pode usar zinco em vez de sódio; a primeira reação é mais longa, mas a reciclagem é muito mais barata.[/note]
 
-# Quest: Dislocator Inhibitor
-betterquesting.quest.epVKHW7jSUiiLW4BPCqv9g.name=§6§lInibidor de Deslocamento
-betterquesting.quest.epVKHW7jSUiiLW4BPCqv9g.desc=Cansado do seu ímã pegando tudo o que não deve? Felizmente, com o advento do Aço Sombrio (Dark Steel), isso não precisa mais ser um problema.%n%nO Inibidor de Deslocamento restringirá a função do Deslocador de Itens da Draconic Evolution dentro de um alcance personalizável de até 16 blocos. Você pode impedi-lo de coletar itens inteiramente ou configurar uma lista branca (whitelist) ou negra (blacklist) de sua escolha. Além disso, você pode escolher se ele fica sempre ativo ou se é ativado apenas por um sinal de redstone.
-
 # Quest: SMD Inductors
 betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.name=§5§lIndutores SMD
 betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.desc=Agora que você tem Neodímio, pode fazer o último dos SMDs, o indutor SMD. Ele pode substituir as Bobinas Pequenas (Small Coils) na fabricação de seus circuitos.
@@ -2742,6 +2742,10 @@ betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=Agora que você está no tier E
 # Quest: EV Field Generator
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.name=§8§lGerador de Campo EV
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.desc=Com Geradores de Campo, você pode fazer seus primeiros Quantum Chests ou Quantum Tanks. Mas os dois primeiros devem ser para seu foguete T2.%n%n[note]Note que a receita do Montador (Assembler) é mais eficiente em recursos.[/note]
+
+# Quest: Supersized Buses
+betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.name=§8§lBarramentos Superdimensionados
+betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.desc=Os barramentos (buses) de entrada e saída não estão comportando o suficiente para você?%n%nAtualize seus barramentos para o Super Bus e aproveite a maior quantidade de slots.%n%n[note]Para obter Carbureto de Silício Derretido (Molten Silicon Carbide) sem um ABS, você pode fabricar o Pó de Carbureto de Silício (Silicon Carbide Dust) em um Mixer, e então fundi-lo (smelt) e usar um extrator de fluidos (fluid extract).[/note]
 
 # Quest: EXTREME MIXING
 betterquesting.quest.kQL8JceoSMSLDU_2AFjoqw.name=§8§lMISTURA EXTREMA
@@ -4905,8 +4909,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAw.name=Metais do Céu
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAw.desc=Você pode criar metais que nem existem na Terra usando plantas! Lembre-se que plantas de tier alto têm menos chance de dropar sementes, então cruze uma cópia antes de tentar colher a principal.
 
 # Quest: New Threads
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.name=Novos Fios
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.desc=Cansado de matar aranhas por fios (string)? Cultive Linho (Flax) para uma fonte fácil e que não morde.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.name=§a§lFibras Naturais
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.desc=Cansado de matar aranhas para obter fios (string)? Cultive um pouco de linho (flax) para ter uma fonte fácil de fios que não morde.%n%nVocê também pode colocar sementes de Algodão (Cotton seeds) diretamente em estacas de cultivo (cropsticks) para cultivar algodão dessa forma. Com um pouco de Corium na próxima missão, você poderá obter couro curtido (tanned leather) facilmente.
 
 # Quest: The Ground is Crying
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBg.name=O Chão Está Chorando
@@ -5899,6 +5903,10 @@ betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=Uma versão aprimorada da Shulk
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.name=§6§lBarril de Obsidiana
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.desc=O barril de Obsidiana armazena tantos itens quanto o de Diamante e também é imune a explosões.
 
+# Quest: Double the Radius = Double the Fun!
+betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.name=Dobro do Raio = Dobro da Diversão!
+betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]Advanced MagLev Pylon II (HV)[/quest]%n%nO Pylon HV possui um raio de §c32§r blocos (um cubo de 65x65x65 centrado no pylon).%n%nO raio é §9reduzido pela metade§r se o pylon estiver sem energia.
+
 # Quest: Obsidian Shulker Box
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.name=§6§lShulker Box de Obsidiana
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.desc=O equivalente portátil do Barril de Obsidiana que mantém suas qualidades à prova de explosão.%n%nPossui §n108§r slots.%n%n[note]Pode ser tingida![/note]
@@ -5914,6 +5922,10 @@ betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=Combinar o baú de diamante com
 # Quest: Iron Shulker Box
 betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.name=§2§lShulker Box de Ferro
 betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.desc=O equivalente portátil do Barril de Ferro.%n%nPossui §n54§r slots.%n%n[note]Pode ser tingida![/note]
+
+# Quest: Constructing Additional Pylons!
+betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.name=Construindo Pylons Adicionais!
+betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.desc=[quest]Advanced MagLev Pylon III (EV)[/quest]%n%nO Pylon EV possui um raio de §c48§r blocos (um cubo de 97x97x97 centrado no pylon).%n%nO raio é §9reduzido pela metade§r se o pylon estiver sem energia. %n%n[note]Os Protoss ficariam muito felizes com você[/note]
 
 # Quest: A Modern Technology
 betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.name=Uma Tecnologia Moderna
@@ -6930,10 +6942,6 @@ betterquesting.quest.qDZZLi21TrmdWXwo_KimIw.desc=Maior, melhor, mais rápido. O 
 # Quest: STEAM-POWERED BREAKTHROUGH
 betterquesting.quest.quLxATDCQFWsrZRuh_gspA.name=§c§lAVANÇO MOVIDO A VAPOR
 betterquesting.quest.quLxATDCQFWsrZRuh_gspA.desc=Você já deve ter uma coleção considerável de máquinas a vapor de bloco único a esta altura. Embora elas possam ter ajudado você a processar pequenas quantidades de materiais, chegará um momento em que você terá que processar uma multidão de itens. É aqui que os Multiblocos entram.%n%nEmbora esses Multiblocos tenham um custo de material muito mais alto do que suas contrapartes de bloco único, eles possuem certos bônus: usam menos vapor e podem processar receitas em paralelo, o que significa que um único ciclo de receita pode fabricar vários itens de uma só vez, se o vapor fornecido for suficiente para sustentá-lo.%n%nEles, no entanto, têm algumas peculiaridades que precisam de atenção:%n%n- Estes Multiblocos exigem blocos de E/S (I/O) §4§lmuito específicos§r, use apenas aqueles que fazem parte da missão.%n- Eles processam até 8 itens, onde o Tier Básico é feito de Bronze e o Tier de Alta Pressão é feito de Aço (confira a visualização do Multibloco no NEI, que mostrará os diferentes níveis de tiers).%n- O Tier e a quantidade de processamento paralelo podem ser vistos via WAILA se você estiver olhando para o Bloco Controlador.%n%n[note]Com esta missão, você iniciou sua jornada com o Processamento em Massa. No entanto, não se empolgue tanto ainda. Embora existam alguns Multiblocos acessíveis na Era do Vapor, a maioria deles só desbloqueia em EV ou posterior, incluindo versões melhores destes mesmos Multiblocos.[/note]
-
-# Quest: Thermic Heating Device
-betterquesting.quest.rVvLhN6YTUKhminacygRVg.name=§9§lDispositivo de Aquecimento Térmico
-betterquesting.quest.rVvLhN6YTUKhminacygRVg.desc=O §5§lThermic Heating Device§r é a edição multibloco do Aquecedor de Fluidos (Fluid Heater), oferecendo §6§l8§r paralelos por tier de voltagem a mais de §2§l2x§r a velocidade e por apenas §3§l90%%§r do custo de EU.%n%nIsso pode ser útil agora para o processamento de Bauxita e Rutênio, mas se você optar por não usá-lo, definitivamente mantenha-o em mente para mais tarde, pois você eventualmente o desejará para o Catalisador de Crescimento (Growth Catalyst)!
 
 # Quest: Steam Stomping!
 betterquesting.quest.s6AEHSKiQe2XveT_oDZbZg.name=§c§lPisotear a Vapor!
@@ -9709,16 +9717,20 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1A.name=Armazenando Essência em Potes?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1A.desc=Aparentemente, você pode anexar isso a um void/oblivion jar e fazer com que ele aniquile o excesso se você definir a prioridade como baixa. Legal, né?%n%nO quê? Armazenar essência em potes? Sério? Acho que você poderia, se realmente quisesse, ou se houvesse potes novos e maiores...
 
 # Quest: Magic Terminals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.name=Terminais Mágicos
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.desc=O Arcane Crafting Terminal é a versão em terminal da Arcane Workbench. Ele pode conter um conjunto de equipamentos de desconto de vis em seu inventário, além de uma varinha (wand). Você também pode vincular um vis relay através da rede a ele para recarregar a varinha.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.name=§5§lTerminais Arcanos
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.desc=O Arcane Crafting Terminal é a versão em terminal da Arcane Workbench. Ele pode comportar um conjunto de equipamentos de desconto de vis em seu inventário, além de uma varinha (wand). Você também pode vincular um vis relay através da rede a ele para recarregar a varinha.%n%nO Essentia Terminal funciona como o Fluid Terminal, mas para essentia.
+
+# Quest: The Fluid Terminal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1g.name=O Terminal de Fluidos (Fluid Terminal)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1g.desc=O ME Fluid Terminal permite que você insira e retire fluidos diretamente da rede usando baldes, células e outros itens que contenham fluidos. Coloque uma célula cheia (ou outro item) no canto inferior esquerdo para ter o conteúdo depositado na rede e a célula movida para o slot de saída. Para o inverso, selecione um fluido e insira uma célula vazia, e ele a encherá.
 
 # Quest: Illuminated Panels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.name=Painéis Iluminados
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.desc=Todos os terminais são feitos a partir destes. Você provavelmente vai querer vários.
 
 # Quest: Easier AL automation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.name=Automação de AL Facilitada
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.desc=Ao contrário dos Pattern Terminals comuns, o Processing Pattern Terminal não possui um modo de crafting. Em vez disso, você tem muito mais slots para entrada e saída, e a habilidade de trocá-los. Ótimo para seus padrões de Linha de Montagem (Assembly Line).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.name=§5§lTerminal de Padrões de Processamento
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.desc=Ao contrário dos terminais de padrões (pattern terminals) comuns, o Processing Pattern Terminal não possui um modo de crafting. Em vez disso, você tem muito mais slots para entrada e saída, e a habilidade de alterná-los. Ótimo para seus padrões da Assembly Line. Por que não fazer diretamente a opção de fluidos? É um upgrade direto.
 
 # Quest: Making Patterns Quick
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2Q.name=Criando Padrões Rapidamente
@@ -9730,11 +9742,16 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2g.desc=O ME Storage Monitor permite vi
 
 # Quest: Redstone Based on Storage Level
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.name=Redstone Baseada no Nível de Armazenamento
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.desc=Este dispositivo ligará (ou desligará) um sinal de redstone com base na quantidade de um item, fluido ou energia que você especificar ter em sua rede. O 'Level Type' alternará entre o modo Item / Fluido e o modo Energia.%n%nPara adicionar um item, clique-esquerdo com o item desejado no espaço em branco entre os números "1000"; clique novamente sem segurar nada para remover.%n%nPara adicionar um fluido, Ctrl + clique-esquerdo com uma célula contendo o fluido desejado no espaço em branco; removível da mesma forma.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.name=§5§lEmissor de Nível ME (ME Level Emitter)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.desc=Este dispositivo ligará (ou desligará) um sinal de redstone com base na quantidade de um item específico (ou energia na rede, se você selecionar o modo) que você possui em sua rede. Clique com o botão esquerdo com um item no espaço entre os números 1000 para adicioná-lo; clique novamente sem segurar nada para removê-lo.
 
 # Quest: Why Do I Need to Know How Much Manure Slurry I Have?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3A.name=Por que Eu Preciso Saber Quanta Lama de Esterco Eu Tenho?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3A.desc=Estas são as versões para fluidos.
+
+# Quest: Out of Polytetrafluoroethylene? Turn on the LCR!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3Q.name=Sem Politetrafluoretileno? Ligue o LCR!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3Q.desc=É basicamente o mesmo que uma cobertura de detector de fluidos (fluid detector cover), exceto que ele detecta com base no que está em sua rede. Clique com uma célula no centro para especificar o fluido, e com a mão vazia para limpar a seleção.
 
 # Quest: Essentia Level Emitter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3g.name=Emissor de Nível de Essência
@@ -9790,7 +9807,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7A.desc=O ME Fluid Auto Filler adiciona
 
 # Quest: Wireless 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.name=Wireless 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.desc=Este é o terminal sem fio bom. Ele permite combinar 6 tipos diferentes de terminais em um único terminal definitivo para uso em movimento: Crafting, Patterning, Essentia, Interface e Level Emitter.%n%nSe você fizer a versão completa, ele permite até programar grandes padrões de processamento sem precisar de partes de LuV para fazer o terminal primeiro.%n%n[note]Recomenda-se configurar uma tecla (keybind) para isso para que você não precise mantê-lo na sua hotbar.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.desc=Este é o terminal sem fio definitivo. Ele permite combinar 6 tipos diferentes de terminais em um único terminal supremo para uso em movimento: Crafting, Patterning (Padrões), Fluid (Fluidos), Essentia, Interface e Level Emitter (Emissor de Nível).%n%nSe você fabricar a versão completa, ela permite até mesmo programar grandes padrões de processamento de fluidos sem a necessidade de peças LuV para criar o terminal primeiro.%n%n[note]Recomendado configurar uma tecla de atalho (keybind) para isso, para que você não precise mantê-lo na sua hotbar.[/note]
 
 # Quest: Cut the Power!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8A.name=Corte a Energia!
@@ -10019,6 +10036,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.desc=Este é o principal propósito 
 # Quest: Applied Greg?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.name=Applied Greg?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=Buses ME são uma combinação de tecnologia e... outra tecnologia. Não me olhe assim, é verdade, OK? Com estes, você pode agora realizar E/S de itens diretamente entre multiblocos GregTech e a rede ME. Eles causam §osignificativamente§r menos lag, então, por favor, comece a usá-los o quanto antes em servidores.%n%nBasta remover sua combinação de GT bus + ME bus ou ME interface, substituir ambos pelo novo bus e conectar um cabo ME diretamente a ele. Ele usa 1 canal, assim como as outras opções.%n%nO output bus e hatch têm espaço de saída limitado. Se precisar de mais, você pode atualizá-los fabricando-os com componentes de armazenamento ou colocando uma célula dentro. Uma Digital Singularity Cell tornará o cache quase infinito.%n%nNote que o output bus deve ejetar cada item de seu cache §oem ordem§r. Se ele não puder ejetar o item do topo, ele ficará travado e não poderá ejetar nenhum outro item.%n%nSe a aniquilação (voiding) estiver desligada, o multibloco não destruirá itens quando as saídas ME estiverem cheias.%n%n[note]Para uso em algumas máquinas, como a Assembly Line avançada, o item configurado deve estar no primeiro slot para que o multibloco funcione.[/note]
+
+# Quest: AE2 Fluid Crafting
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.name=Criação de Fluidos com AE2 (Fluid Crafting)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.desc=Criação de fluidos integrada diretamente no seu sistema ME. NÃO PODE SER!%n%nAE2FC é um add-on poderoso que foi backportado para o GTNH.%n%nAgora, o que você precisa para fazer essa maravilha funcionar?%nTodo sistema ME precisa de um Fluid Discretizer. Ele permite o crafting sob demanda. Embora você possa usar o AE2FC sem o Fluid Discretizer para mover fluidos, você precisará do Discretizer para o autocrafting.%n%nDepois, você também precisará de um Fluid Terminal ou de um Fluid Processing Terminal para a Assembly Line.%n%nAo criar padrões (patterns), você notará que seus fluidos são colocados como se fossem itens.%nSeus padrões finalizados terão uma aparência azulada. Colocá-los em uma Dual Interface permitirá que o AE2 empurre tanto os fluidos quanto os itens. Nota: Os fluidos são enviados primeiro, depois os itens.%nVocê pode alternar a configuração da Dual Interface no canto superior direito se desejar que ela mantenha fluidos em estoque.%n%nSe você usar um padrão azul (padrão de fluido) em uma interface normal, o AE2 enviará o fluido como um "pacote de fluido" (fluid packet). Isso é apenas uma representação do fluido como um item. Um Fluid Decoder pode transformá-lo de volta em um fluido e salvá-lo na rede de fluidos.%n%nVocê pode usar um Ingredient Buffer (grande ou normal) para que seus itens e fluidos enviados por um padrão sejam armazenados internamente em um único bloco. O buffer normal pode comportar 9 itens e 4 fluidos, enquanto o grande pode comportar 27 itens e 7 fluidos. Não é obrigatório, mas você pode usá-lo para automatizar coisas com conduítes de itens e fluidos.%n%nSe você quiser automatizar blocos únicos, é tão fácil quanto comer bolo de chocolate em uma dieta:%nCrie o padrão, crie uma interface, boom — pronto! Ele inserirá automaticamente o fluido no inventário de fluidos de uma máquina de bloco único.%n%nAté mesmo automatizar coisas mais difíceis, como a Assembly Line, torna-se muito mais fácil com essas ferramentas.%n%nSe precisar de informações mais detalhadas, visite a wiki:%n%n[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2#Autocrafting_in_AE2[/url]%n%n[note]O mod Extra Cells foi removido. Quaisquer componentes e células antigos foram convertidos para partes de AE2 e AE2FC onde foi possível.[/note]
 
 # Quest: Starting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=§5§lComeçando Sua Jornada no AE2
@@ -11680,10 +11701,6 @@ betterquesting.quest.TvVeFhtYQCSmlekVCdADaQ.desc=Durante suas viagens, você ouv
 betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.name=Precisa de Mais Açúcar?
 betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.desc=Com o Briar começando a consumir, você também pode querer aumentar sua produção de açúcar.%n%nSweeds são plantadas na grama, não em terra arada, e se espalharão para se propagar sozinhas. Uma vez totalmente maduras, elas podem ser colhidas para obter açúcar, bem como cana-de-açúcar.
 
-# Quest: Thaumic Dendrology
-betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.name=Dendrologia Taúmica
-betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.desc=As mudas (saplings) do Thaumcraft podem ser bastante úteis no início, agora que você tem acesso à infusão você pode criá-las. Cada tipo tem um traço especial:%n%n§6§lGolden Oak§r - Dropa Maçãs Douradas em vez de maçãs comuns.%n%n§c§lNether§r - Cria um bioma miniatura do nether ao ser colocada, o que pode spawnar mobs - cuidado! Colocar as folhas desta árvore em cima de um bloco fará com que esse bloco se transforme em sua contraparte do nether.%n%n§d§lEnder§r - Cria um bioma miniatura do end ao ser colocada, o que também pode spawnar mobs. Colocar as folhas desta árvore em cima de um bloco fará com que esse bloco se transforme em sua contraparte do end. (§3Uma ótima fonte de Endstone§r)%n%n§b§lPeaceful§r - Reúne criaturas passivas embaixo de suas folhas. Os tipos de animais atraídos dependem do bioma em que for plantada.
-
 # Quest: Keeping Out the Riff-Raff
 betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.name=Mantendo a Gentalha Longe
 betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.desc=Você está começando a ficar cansado de ter que construir tudo como se fosse algum tipo de fortaleza apenas para garantir que nenhum convidado indesejado entre. Claro, essa é apenas a natureza de viver em um mundo onde hordas infinitas de mortos-vivos inquietos assombram cada canto escuro, mas será que pedir uma entrada segura que não tenha convenientemente o formato de uma porta é pedir demais?%n%nNão mais. A Pedra de Pavimentação de Proteção (Paving Stone of Warding), assumindo que nada esteja em cima dela, projetará um campo de força invisível de dois blocos de altura acima de si que bloqueia a passagem de mobs que não sejam jogadores, pelo menos a gentalha comum. Como bônus, as aranhas não podem escalar o campo de força, então não há necessidade de saliências para mantê-las fora também.%n%nDito isso, como o campo de força não consegue distinguir uma flecha disparada por você de uma disparada §ocontra você§r, objetos mundanos ainda passarão independentemente. E o campo de força faz tanto para bloquear a linha de visão quanto o termo §oinvisível§r sugeriria.%n%nClaro, você não está preocupado com essa parte. Ser capaz de atirar nas coisas com sua besta enquanto elas não podem alcançar você está totalmente a §oseu§r favor, no fim das contas.
@@ -11719,10 +11736,6 @@ betterquesting.quest.gVqhKJAoTfudKA5xUWMzMg.desc=Quando você é envenenado ou e
 # Quest: Counting Items
 betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.name=Contando Itens
 betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.desc=O Comparador Remoto torna significativamente mais fácil obter sinais de comparador de qualquer bloco que você desejar, mas ao olhar para seus baús de armazenamento, você não vê razão para se incomodar. E daí se eles estão quase cheios? Você quer saber do que §oque§r eles estão quase cheios.%n%nAs Caixas de Contagem (Tally Boxes) podem ser apontadas para um recipiente — seja diretamente ou, usando um Comparador Remoto, remotamente — e configuradas com uma Lista Branca Rúnica (Runic Whitelist) que especifica as condições sob as quais você deseja que a Tally Box envie um sinal de redstone. Quantidade, metadados e correspondência de NBT são opções, assim como o uso de um filtro de nome básico.%n%nNote que o lado da redstone é sempre oposto ao lado de leitura, e os Comparadores Remotos devem ser colocados em cima das Tally Boxes para funcionarem juntos, o que significa que a redstone é sempre emitida na face inferior nesse caso.%n%n[note]As Runic Whitelists não permitem que você use itens "fantasma" do NEI para configurar seus filtros, infelizmente.[/note]
-
-# Quest: Magical Plants
-betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.name=Plantas Mágicas
-betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.desc=Agora que você fez um cadinho, pode criar uma série de plantas únicas do Thaumcraft. Algumas delas são incrivelmente úteis, então você vai querer dar uma olhada de perto.%n%nA pesquisa para a maioria delas pode ser encontrada em Thaumic Bases, começando com "Thaumic Nature".%n%n[note]Além destas, existem mais tipos de plantas desbloqueadas no futuro conforme você continua a progredir.[/note]
 
 # Quest: Tube Madness
 betterquesting.quest.xoH_knd-RV-22QEfLUtuDA.name=A Loucura dos Tubos
@@ -11799,6 +11812,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGA.desc=Olhos. Sim. Olhos! Eu preciso d
 # Quest: Really (Really!) Dark Magic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.name=Magia Realmente (Realmente!) Sombria
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.desc=Tolos. TOLOS, eu digo! Eles não sabem de nada! Este livro me guiará, sim. Sim, ele guiará, meu precioso. Ele nos levará a ainda mais PODER!%n%nDisponível em sua livraria local, e também ocasionalmente encontrado em Cavaleiros Carmesins e Clérigos Carmesins.%n%n[note]NOTA: Se você planeja caçar Cavaleiros Carmesins e Clérigos Carmesins, você pode querer configurar um spawner, porque provavelmente precisará matar muitos desses caras para obter este livro.[/note]
+
+# Quest: Secrets
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Segredos
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=Eu posso sentir. Simmm. Siiiiimm. Nós ganharemos mais poder em breve. Logo! Sim. Meu precioso. As vozes me deram uma pista, existe uma dimensão repleta de fontes inacreditáveis de energia mágica. Eu devo ir para lá. Eu devo! O povo carmesim (Crimson people) conhece o segredo. Eu vou despedaçá-los... Eles vão me contar!%n%n§3NOTA: Talvez você queira configurar um spawner, pois provavelmente precisará matar muitos desses caras para obter o livro necessário para a próxima tarefa. Além disso, eles são invocados pelos Clerics (Clérigos), que NÃO dão respawn.
 
 # Quest: Find the Key
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Encontre a Chave
@@ -11879,6 +11896,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=Finalmente, um dispositivo onde
 # Quest: Crying Obsidian...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=Obsidiana Chorosa...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=...ela chora pelos mortos. Isso pode ser útil em alguns casos. Ao colocar 2 uma em cima da outra, você é capaz de definir seu ponto de renascimento (respawn) para aquele local, sem a necessidade de uma cama. Cabe a você imaginar as possibilidades...
+
+# Quest: Useful Trees
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=Árvores Úteis
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=Assim como as plantas, existem árvores que atrairão várias criaturas amigáveis e outras "nem tão amigáveis". (Sem garantia quando colocadas em biomas desolados!)
 
 # Quest: Purge Your Warp
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.name=Expurgue seu Warp
@@ -13566,10 +13587,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Resfriadores de calor (Heat Ven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=§a§lFazendo uma Espada Melhor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=Agora é hora de fazer sua primeira espada de qualidade do Tinkers. Primeiro, você deve fazer moldes (casts) de lâmina, de um tipo de guarda e de cabo. Derreta um pouco de bronze na fundição (smeltery) e molde as partes da sua ferramenta. Prontinho... sua primeira espada Tinkers. Existem 4 tipos de guarda; trocá-los resultará em um tipo diferente de espada; consulte o livro do Tinkers para detalhes.
 
-# Quest: Time To Kill (Crimson Knight)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Hora de Matar (Cavaleiro Carmesim)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=Eu posso sentir. Sim. Siiiim. Ganharemos mais poder em breve. Logo! Sim. Meu precioso. As vozes me deram uma dica: existe uma dimensão cheia de fontes inacreditáveis de energia mágica. Eu devo ir para lá. Eu devo! O povo carmesim conhece o segredo. Vou despedaçá-los... Eles me dirão!%n%n§3NOTA: Os Cavaleiros são spawnados pelos Clérigos, mas os Clérigos NÃO RESPAWNAM após serem mortos.
-
 # Quest: Magical Waystones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=Waystones Mágicas
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=Isso pode ser usado para voltar a um Portal Celestial (Celestial Gateway) se você tiver uma Pérola Celestial vinculada (bound Celestial Pearl) em sua hotbar. Ele usará a que estiver mais à esquerda na sua hotbar, então você pode carregar várias para viajar por aí!
@@ -14060,7 +14077,7 @@ betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=O barril de Diamante possui 108
 
 # Quest: Large Molecular Assembler
 betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.name=§9§lAssembler Molecular Grande
-betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=O Large Molecular Assembler é exatamente o que parece; um assembler molecular muito rápido com um inventário muito maior para padrões de crafting (patterns).%n%nEle pode lidar com até 1024 crafts por segundo no uso máximo de energia, tornando-o até 100x mais rápido que um assembler molecular. Confira a Wiki para detalhes específicos: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nO controlador do LMA conecta-se diretamente à sua rede principal para funcionar, e todas as receitas devem ser colocadas dentro de barramentos de entrada (input buses) anexados à máquina para serem reconhecidas. Não exigirá um barramento de saída.%n%n[note]Barramentos de entrada de alta capacidade são altamente recomendados![/note]%n%n[warn]Esta máquina pode absolutamente compartilhar paredes (wall-share), mas tenha cuidado com a colocação do seu barramento de entrada ou nem todas as máquinas poderão ser usadas.[/warn]
+betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=O Large Molecular Assembler (LMA) é exatamente o que o nome sugere: um montador molecular muito rápido com um inventário muito maior para padrões de crafting (crafting patterns).%n%nEle pode processar até 1024 crafts por segundo no uso máximo de energia, tornando-o até 100 vezes mais rápido que um montador molecular comum. Confira a Wiki para detalhes específicos: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nO controlador do LMA se conecta diretamente à sua rede principal para funcionar, e todas as receitas devem ser colocadas dentro de barramentos de entrada (input buses) anexados à máquina para serem reconhecidas. Não requer um barramento de saída (output bus).%n%n[note]Super Buses são altamente recomendados![/note]%n%n[warn]Esta máquina pode perfeitamente compartilhar paredes (wall-share), mas tenha cuidado com o posicionamento do seu barramento de entrada, ou todas as máquinas podem não ser utilizadas.[/warn]
 
 # Quest: Compact Storage
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.name=§a§lArmazenamento Compacto
@@ -14096,11 +14113,11 @@ betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.desc=O MKIII é o upgrade final na s
 
 # Quest: Creative Flight With MagLev
 betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.name=§6§lVoo Criativo com MagLev
-betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.desc=Ficando irritado tentando alcançar tubos e conduítes ao redor da sua base? Não procure mais, o §5§lMagLev Harness§r chegou!%n%nCom o MagLev, você pode ter voo criativo sempre que estiver dentro do alcance de um MagLev Pylon e tiver o Harness equipado.%n%nIsso funcionará com metade do alcance quando desenergizado; você desbloqueia o alcance total quando ele recebe §21A§r de seu tier de energia correspondente. O MagLev só consumirá energia enquanto você estiver dentro do alcance, não passivamente. Um Harness só pode ser vinculado a um Pylon por vez, mas um Pylon pode se conectar a qualquer número de Harnesses. Consumirá apenas 1A §nindependentemente§r de quantos Harnesses estejam vinculados ao Pylon§r.%n%nO §6MV Pylon§r tem um raio de §c16§r blocos (cubo de 33x33x33 centrado no pylon)%n%nO §5HV Pylon§r tem um raio de §c32§r blocos (cubo de 65x65x65 centrado no pylon)%n%nO §8EV Pylon§r tem um raio de §c48§r blocos (cubo de 97x97x97 centrado no pylon)
+betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.desc=Irritado tentando alcançar tubos e conduítes pela sua base? Não procure mais, o §5§lMagLev Harness§r está aqui!%n%nCom o MagLev, você pode ter voo criativo sempre que estiver dentro do alcance de um MagLev Pylon e estiver com o Harness equipado.%n%nIsso funcionará mesmo sem energia, no entanto, o raio de alcance do Pylon é dobrado quando ele recebe §21A§r de seu respectivo tier de energia. O MagLev só consumirá energia enquanto você estiver dentro do alcance, não de forma passiva. Um Harness só pode ser vinculado (tethered) a um Pylon por vez, mas um Pylon pode se conectar a qualquer número de Harnesses. O Pylon consumirá apenas 1A, §nindependentemente§r de quantos Harnesses estejam vinculados a ele.%n%n[note]Verifique a tooltip para ver o alcance do Pylon escolhido; o de MV tem um alcance máximo de 16 (um cubo de 33 x 33 x 33) quando energizado![/note]
 
 # Quest: Powerfail Notifications
 betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.name=§6§lNotificações de Falha de Energia
-betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.desc=Parabéns pela sua primeira EBF!%n%nAo longo da sua jornada no GTNH, você acabará criando centenas de multiblocos e muito provavelmente encontrará uma infinidade de falhas de energia em algum momento.%n%nFelizmente, temos um sistema dedicado para ajudá-lo a manter-se informado exatamente sobre quando e onde essas falhas de energia ocorrem §3(embora a parte do 'porquê' caiba a você descobrir!)§r.%n%nQuando um multibloco falha por falta de energia, você receberá uma notificação no §5chat§r, além de um ícone visível na §5tela§r e um ícone visível no seu §5mapa§r.%n%n§lVocê pode limpar estas notificações ao§r:%n- Clicar no multibloco que falhou%n- Deletar a notificação no JourneyMap%n- Digitar §4/powerfails clear§r%n%nPara aqueles que jogam em §2multijogador§r, qualquer pessoa que esteja na sua §2equipe (team)§r receberá as §2mesmas notificações§r. §2§nUma pessoa§r limpando uma notificação deve limpá-la para§2 §ntodos os jogadores§r.%n%n[note]Este recurso usa o mesmo sistema de equipes que o EU sem fio. Use <§c/sp invite§r §1[Nome do Jogador]§r> para formar equipe.[/note]%n%nTodos estes recursos podem ser desativados na configuração do GregTech. Se você quiser que o ícone na tela desapareça, use §4§l/powerfails hide§r. Para todas as opções in-game, use §4§l/powerfails help§r.
+betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.desc=Parabéns pelo seu primeiro EBF (Electric Blast Furnace)!%n%nAo longo da sua jornada no GTNH, você acabará criando centenas de multiblocos e muito provavelmente encontrará uma infinidade de falhas de energia (power failures) em algum momento.%n%nFelizmente, temos um sistema dedicado para ajudar você a se manter informado sobre exatamente quando e onde essas falhas ocorrem §3(embora a parte do "porquê" caiba a você descobrir!)§r.%n%nQuando um multibloco falha por falta de energia, você receberá uma notificação no §5chat§r, além de um ícone visível na §5tela§r e um ícone visível no seu §5mapa§r.%n%n§lVocê pode limpar essas notificações ao§r:%n- Clicar no multibloco que falhou%n- Deletar a notificação no JourneyMap%n- Digitar §4/powerfails clear§r%n%nPara quem joga no §2multiplayer§r, qualquer pessoa que esteja no seu §2time§r receberá as §2mesmas notificações§r. §2§nUma única pessoa§r limpando a notificação deve limpá-la para§2 §ntodos os jogadores§r.%n%n[note]Este recurso usa o mesmo sistema de equipe do EU Wireless. Use </gt §4global_energy_join§r §1[Usuário Entrando] [Usuário a se Juntar]§r> para formar a equipe.[/note]%n%nTodos esses recursos podem ser desativados na configuração do GregTech. Se você quiser que o ícone na tela desapareça, use §4§l/powerfails hide§r. Para todas as opções in-game, use §4§l/powerfails help§r.
 
 # Quest: Absolute Purity
 betterquesting.quest.bNVzOxCORxuo_lhAh13r0A.name=§5§l§nPureza Absoluta
